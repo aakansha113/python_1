@@ -6,11 +6,11 @@ print(len(str))
 
 #slicing
 
-str="hello world"     #slicing is always count from index 0
+str="hello world"                       #slicing is always count from index 0
 print(str[5:])
 print(str[:5])
 print(str[3:8])
-print(str[-8:-3])     #slicing baackward counting
+print(str[-8:-3])                       #slicing baackward counting
 print(str[-9:-2])
 
 str="aakansha hello"
